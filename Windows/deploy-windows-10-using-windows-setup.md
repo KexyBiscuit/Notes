@@ -1,4 +1,4 @@
-﻿# Deploy Windows 10 using Windows Setup
+# Deploy Windows 10 using Windows Setup
 
 ## Checklist
 
@@ -33,15 +33,18 @@
 - Restart Windows
 - Connect to the Internet
 - Configure network profile
-- Configure For developers
 - Configure Date & Time
   - Configure Time zone
   - Synchronize with an Internet time server
+- Configure For developers
 - Sign in with a Microsoft Account
 - Activate Windows
-- Windows Update
+- Configure Windows Update
   - Enable `Give me updates for other Microsoft products when I update Windows`
   - Configure Delivery Optimization
   - Check for updates
-- Microsoft Store
+- Configure Microsoft Store
   - Get updates
+- Configure OneDrive
+  - Configure Auto Save
+    - You can't unpin the Desktop folder from Quick access in File Explorer after enabling this feature. This should be a bug.
