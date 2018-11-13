@@ -36,9 +36,11 @@
 - Configure Date & Time
   - Configure Time zone
   - Synchronize with an Internet time server
-- Configure For developers
+- Configure For developers except for Use developer features
 - Sign in with a Microsoft Account
 - Activate Windows
+- Configure Windows Insider Program
+- Configure Use developer features
 - Configure Windows Update
   - Enable `Give me updates for other Microsoft products when I update Windows`
   - Configure Delivery Optimization
