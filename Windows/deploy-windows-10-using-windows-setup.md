@@ -6,7 +6,7 @@
 
 - Get Windows 10 installation media
 - Get device drivers
-- Get tools
+- Get tools (optional)
   - [7-zip](https://7-zip.org/)
   - [Internet Download Manager](https://www.internetdownloadmanager.com/)
   - [Shadowsocks for Windows](https://github.com/shadowsocks/shadowsocks-windows)
