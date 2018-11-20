@@ -40,10 +40,11 @@
 - Sign in with a Microsoft Account
 - Activate Windows
 - Configure Windows Insider Program
+- Restart Windows
 - Configure Use developer features
+- Configure Delivery Optimization
 - Configure Windows Update
   - Enable `Give me updates for other Microsoft products when I update Windows`
-  - Configure Delivery Optimization
   - Check for updates
 - Configure Microsoft Store
   - Get updates
