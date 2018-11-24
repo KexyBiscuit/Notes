@@ -32,7 +32,6 @@
   - Do NOT restart Windows
 - Configure Power Options
 - Rename the PC
-- Restart Windows
 - Connect to the Internet
 - Configure network profile
 - Configure Date & Time
