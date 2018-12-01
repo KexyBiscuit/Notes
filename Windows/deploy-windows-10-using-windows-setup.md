@@ -42,8 +42,8 @@
 - Activate Windows
 - Configure Windows Insider Program
   - Restart Windows even if not prompted
-- Configure Use developer features
 - Configure Delivery Optimization
+- Configure Use developer features
 - Configure Windows Update
   - Enable `Give me updates for other Microsoft products when I update Windows`
   - Check for updates
