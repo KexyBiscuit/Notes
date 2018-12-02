@@ -28,7 +28,6 @@
 - Reorder drive letters
 - _(Optional)_ Rename system disk
 - Install device drivers
-  - Do NOT restart Windows
 - Configure Display
 - Configure Power Options
 - Rename the PC
@@ -39,9 +38,9 @@
   - Synchronize with an Internet time server
 - Configure For developers except for Use developer features
 - Sign in with a Microsoft Account
+- Configure Sign-in options
 - Activate Windows
 - Configure Windows Insider Program
-  - Restart Windows even if not prompted
 - Configure Delivery Optimization
 - Configure Use developer features
 - Configure Windows Update
@@ -53,4 +52,3 @@
   - Configure Auto Save
     - You can't unpin the Desktop folder from Quick access in File Explorer after enabling this feature. This should be a bug.
 - Configure BitLocker
-- Restart Windows
