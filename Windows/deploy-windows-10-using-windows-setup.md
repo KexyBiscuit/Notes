@@ -24,12 +24,12 @@
 - Install Windows on the system drive
 - Add a second keyboard layout
 - Sign in with a local account
-- Configure Display
 - Configure User Account Control
 - Reorder drive letters
 - _(Optional)_ Rename system disk
 - Install device drivers
   - Do NOT restart Windows
+- Configure Display
 - Configure Power Options
 - Rename the PC
 - Connect to the Internet
