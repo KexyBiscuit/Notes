@@ -16,10 +16,12 @@
 ### Steps
 
 - Disconnect from the Internet
+- Boot to Windows Setup
 - Clear the configuration information off the system drive
   - `DISKPART`
   - `SELECT DISK <The DiskPart disk index number of the system drive>`
   - `CLEAN`
+- Select Custom installation
 - Load the storage driver
 - Install Windows on the system drive
 - Add a second keyboard layout
