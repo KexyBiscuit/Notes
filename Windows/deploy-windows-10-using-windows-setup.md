@@ -43,15 +43,15 @@
 - Configure Sign-in options
 - Activate Windows
 - Configure Windows Insider Program
-- Configure Delivery Optimization
-- Configure Use developer features
 - Configure Windows Update
   - Configure Active hours
   - Enable `Give me updates for other Microsoft products when I update Windows`
-  - Check for updates
-- Configure Microsoft Store
-  - Get updates
+- Configure Delivery Optimization
+- Configure Use developer features
+- Check for updates in Windows Update
+- Get updates in Microsoft Store
 - Configure OneDrive
   - Configure Auto Save
-    - You can't unpin the Desktop folder from Quick access in File Explorer after enabling this feature. This should be a bug.
+    - You can't unpin the Desktop folder from Quick access in File Explorer after enabling this feature.
+      - [Feedback](https://aka.ms/AA3fe68)
 - Configure BitLocker
