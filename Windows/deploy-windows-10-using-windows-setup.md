@@ -46,6 +46,7 @@
 - Configure Delivery Optimization
 - Configure Use developer features
 - Configure Windows Update
+  - Configure Active hours
   - Enable `Give me updates for other Microsoft products when I update Windows`
   - Check for updates
 - Configure Microsoft Store
