@@ -51,7 +51,11 @@
 - Check for updates in Windows Update
 - Get updates in Microsoft Store
 - Configure OneDrive
+  - Enable Files On-Demand
   - Configure Auto Save
     - You can't unpin the Desktop folder from Quick access in File Explorer after enabling this feature.
       - [Feedback](https://aka.ms/AA3fe68)
 - Configure BitLocker
+- Configure Feedback Hub
+- Configure To-Do
+- Configure Mail
