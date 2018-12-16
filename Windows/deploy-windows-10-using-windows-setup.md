@@ -47,8 +47,8 @@
   - Configure Active hours
   - Enable `Give me updates for other Microsoft products when I update Windows`
 - Configure Delivery Optimization
-- Configure Use developer features
 - Check for updates in Windows Update
+- Configure Use developer features
 - Get updates in Microsoft Store
 - Configure OneDrive
   - Enable Files On-Demand
