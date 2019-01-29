@@ -39,7 +39,7 @@
   - Configure Time zone
   - Synchronize with an Internet time server
 - Configure For developers except for Use developer features
-- Sign in with a Microsoft Account
+- Sign in with a Microsoft account
 - Configure Sign-in options
 - Activate Windows
 - Configure Windows Insider Program
