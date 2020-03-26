@@ -27,6 +27,7 @@
 - _(Optional)_ Rename system disk
 - Install device drivers
 - Configure Display
+- Configure Sound
 - Configure Power Options
 - Rename the PC
 - Connect to the Internet
@@ -50,4 +51,5 @@
   - Configure Auto Save
     - You can't unpin the Desktop folder from Quick access in File Explorer after enabling this feature.
       - [Feedback](https://aka.ms/AA3fe68)
+- Configure properties of disk drives and network adapters in Device Manager
 - Configure BitLocker
